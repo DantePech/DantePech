@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate with a person ;)
 - 📫 How to reach me: i don't know yet
-- 😄 Pronouns: dan
+- 😄 Pronouns: You can call me dan
 - ⚡ Fun fact: i'm not good drawing sprites
 
 <!---
